@@ -2,11 +2,11 @@
 
 ### Screen 1:
 
-![Screen 1](screens/screen1.png)
+![Screen 1](screens/1.jpg)
 
 ### Screen 2:
 
-![Screen 2](screens/screen2.png)
+![Screen 2](screens/2.jpg)
 
 ## Technologies Used
 
