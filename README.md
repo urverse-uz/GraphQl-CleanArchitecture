@@ -1,7 +1,5 @@
 ## Screenshots
 
-Include screenshots or GIFs of the screens here, showcasing the main features of your project.
-
 ### Screen 1:
 
 ![Screen 1](screens/screen1.png)
