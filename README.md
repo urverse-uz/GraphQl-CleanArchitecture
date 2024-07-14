@@ -1,6 +1,6 @@
 ## Screenshots
 
-![Screen 1](screens/1.jpg) ![Screen 2](screens/2.jpg)
+<img src="screens/1.jpg" alt="Screen 1" width="400" height="800" /> <img src="screens/2.jpg" alt="Screen 2" width="400" height="800" />
 
 ## Technologies Used
 
