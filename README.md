@@ -1,6 +1,6 @@
 ## Screenshots
 
-<img src="screens/1.jpg" alt="Screen 1" width="400" height="800" /> <img src="screens/2.jpg" alt="Screen 2" width="400" height="800" />
+<img src="screens/1.jpg" alt="Screen 1" width="200" height="400" /> <img src="screens/2.jpg" alt="Screen 2" width="200" height="400" />
 
 ## Technologies Used
 
